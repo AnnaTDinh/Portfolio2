@@ -1,0 +1,29 @@
+{
+  "name": "Portfolio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaTDinh/Portfolio2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaTDinh/Portfolio2/issues"
+  },
+  "homepage": "https://github.com/AnnaTDinh/Portfolio2#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
